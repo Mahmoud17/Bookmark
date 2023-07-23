@@ -1,0 +1,6 @@
+body {
+    background-color: #eee;
+}
+body * {background-color: white;}
+table i {cursor: pointer;}
+a {all:unset}
